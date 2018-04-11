@@ -1,6 +1,6 @@
-alias gogit="cd ~/Workspace/git"
-alias python="python3"
 alias pip="pip3"
+alias python="python3"
+alias mux="tmuxinator"
 alias vim="nvim"
 alias vi="nvim"
 alias vimdiff="nvim -d"
@@ -70,6 +70,7 @@ plugins=(
   git
   zsh-syntax-highlighting
   zsh-autosuggestions
+  tmuxinator
   fasd
 )
 
@@ -109,4 +110,3 @@ source $ZSH/oh-my-zsh.sh
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-export PATH="/usr/local/sbin:$PATH:/usr/local/anaconda3/bin"
