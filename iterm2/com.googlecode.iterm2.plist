@@ -233,10 +233,8 @@
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
-	<key>NSFontPanelAttributes</key>
-	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Workspace/git/dotfiles/zsh</string>
+	<string>~/Workspace/git/dotfiles/iterm2</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -270,14 +268,12 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
-	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>530 492 620 392 0 0 1680 1027 </string>
-	<key>NSWindow Frame SessionsPreferences</key>
-	<string>269 408 609 401 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>366 330 928 394 0 0 1680 1028 </string>
+	<string>269 314 918 452 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>696 306 984 722 0 0 1680 1028 </string>
+	<string>840 65 840 963 0 0 1680 1028 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>212 101 570 452 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -442,8 +438,6 @@
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
-			<key>Background Image Location</key>
-			<string>/Users/keyakoto/Workspace/git/dotfiles/zsh/iterm2_background.jpg</string>
 			<key>Badge Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -918,7 +912,7 @@
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>4CA4807D-1B65-4CFB-96E7-30B7BA9C5E41</string>
+	<string>9C59FE38-141E-4643-B64B-930932DCCC6E</string>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -926,7 +920,7 @@
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>545056496.08777797</real>
+	<real>549462932.40985203</real>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
 	<key>PointerActions</key>
@@ -967,15 +961,13 @@
 	<key>Print In Black And White</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>
-	<true/>
+	<false/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=40</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=35</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
-	<key>SULastCheckTime</key>
-	<date>2018-05-29T09:45:27Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
