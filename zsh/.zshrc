@@ -40,3 +40,5 @@ if [ -s "$HOME/.nvm/nvm.sh" ] && [ ! "$(type __init_nvm)" = function ]; then
 fi
 
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+export PATH="$PATH:`yarn global bin`"
+export PATH="$PATH:/usr/local/anaconda3/bin:/usr/bin:/bin:/usr/sbin:/sbin"
